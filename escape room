@@ -1,3 +1,4 @@
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -139,7 +140,7 @@
   </div>
 
   <div id="screamer">
-    <img src="https://i.pinimg.com/originals/61/5e/33/615e33f0253df3bee40cd848cea5cc6b.jpg" alt="Screamer">
+    <img src="[https://i.pinimg.com/originals/61/5e/33/615e33f0253df3bee40cd848cea5cc6b.jpg](https://i.pinimg.com/originals/61/5e/33/615e33f0253df3bee40cd848cea5cc6b.jpg)" alt="Screamer">
   </div>
 
   <script>
